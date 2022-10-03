@@ -1,7 +1,7 @@
 {
     "name": "HexTech-Launcher",
     "preductname": "HexTech Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "HexTech Launcher",
     "main": "src/app.js",
     "author": "S0S2",
