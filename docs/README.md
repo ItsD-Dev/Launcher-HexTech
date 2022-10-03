@@ -21,8 +21,8 @@
 **Cloner et installer les dépendances**
 
 ```console
-> git clone https://github.com/luuxis/Selvania-Launcher.git
-> cd Selvania-Launcher
+> git clone https://github.com/S0S2-DEV/Launcher-HexTech.git
+> cd Launcher-HexTech
 > npm install
 ```
 ---
