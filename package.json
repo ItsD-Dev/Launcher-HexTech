@@ -2,7 +2,7 @@
     "name": "HexTech-Launcher",
     "preductname": "HexTech Launcher",
     "version": "1.0.0",
-    "description": "HexTech Launcher",
+    "description": "Launcher do HexTech Brasil",
     "main": "src/app.js",
     "author": "S0S2",
     "url": "http://modpack1.hextechbrasil.com",
